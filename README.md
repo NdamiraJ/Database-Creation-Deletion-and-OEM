@@ -9,7 +9,7 @@ This assignment covers the creation and deletion of Pluggable Databases (PDBs), 
 - **Password**: `Auca`
 - **Purpose**: This account stores all class work and exercises.
 
-Find screenshots in the screenshot folder [text](Sceenshots) 
+Find screenshots in the screenshot folder [Screenshots](Sceenshots) 
 
 
 ## Task 2: Create and Delete a PDB
