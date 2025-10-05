@@ -26,9 +26,9 @@ Attempted Access: https://localhost:5500/em
 
 - Result: OEM returned “Not Implemented” error
 
-- Cause: OEM Express not supported or mapped in Oracle Free 23c
+- Cause: OEM Express is not supported or mapped in Oracle Free 23c
 
-- Adaptation: Used SQL Developer queries to simulate OEM functionalit
+- Adaptation: Used SQL Developer queries to simulate OEM functionality
 
 ## Issues & Solutions
 
